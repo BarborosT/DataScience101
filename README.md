@@ -1,3 +1,4 @@
+https://app.patika.dev/barborost </br>
 # DataScience101
 
 ### Türkçe
